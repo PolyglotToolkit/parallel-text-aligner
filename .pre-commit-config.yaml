@@ -1,6 +1,6 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
-exclude: license-check.txt|^(docs/|notebooks/|data/|src/secrets/|src/static/|src/templates/|tests)
+exclude: license-check.txt|.vscode/settings.json|^(docs/|notebooks/|data/|src/secrets/|src/static/|src/templates/|tests)
 default_language_version:
     python: python3.10
 repos:

@@ -1,4 +1,0 @@
-data:
-  max_input_size_mb: 100
-  max_num_sentences: 10000
-  max_sentence_length: 100

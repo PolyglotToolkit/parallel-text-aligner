@@ -1,0 +1,34 @@
+task:
+  lang_a: EN
+  lang_b: DE
+
+data:
+  max_input_size_mb: 100
+  max_num_sentences: 10000
+  max_sentence_length: 100
+
+model:
+  # function_words|lemmas
+  features_type: function_words
+
+  # default for package resources | path to alternative file
+  features_file: default
+
+  # uses the full list
+  feature_dimension: default
+
+search:
+  band_width: 11
+  max_concat: 3
+  beam_width_max: 10
+  strategy:
+    anchor:
+    - 0<>0
+    - 0<>0,1
+    - 0,1<>0
+    nonanchor:
+    - 0<>0
+    - 0<>0,1
+    - 0,1<>0
+    - 0<>1
+    - 1<>0

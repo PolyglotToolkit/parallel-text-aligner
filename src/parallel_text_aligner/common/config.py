@@ -8,4 +8,8 @@ class ConfigSingleton:
     ...
 
 
-CONFIG = ConfigSingleton()
+_CONFIG = ConfigSingleton()
+
+
+def get_config():
+    return _CONFIG

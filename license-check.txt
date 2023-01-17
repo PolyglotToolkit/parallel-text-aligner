@@ -1,22 +1,27 @@
+                                                                                
+                                list of packages                                
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Compatible ┃ Package                ┃ License(s)                             ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ ✔          │ fonttools              │ MIT License                            │
+│ ✔          │ packaging              │ Apache Software License;; BSD License  │
+│ ✔          │ omegaconf              │ BSD License                            │
+│ ✔          │ matplotlib             │ Python Software Foundation License     │
+│ ✔          │ contourpy              │ BSD License                            │
+│ ✔          │ setuptools-scm         │ MIT License                            │
+│ ✔          │ six                    │ MIT License                            │
+│ ✔          │ kiwisolver             │ BSD License                            │
+│ ✔          │ setuptools             │ MIT License                            │
+│ ✔          │ antlr4-python3-runtime │ BSD                                    │
+│ ✔          │ typing-extensions      │ Python Software Foundation License     │
+│ ✔          │ hydra-core             │ MIT License                            │
+│ ✔          │ cycler                 │ BSD License                            │
+│ ✔          │ pillow                 │ Historical Permission Notice and       │
+│            │                        │ Disclaimer (HPND)                      │
+│ ✔          │ python-dateutil        │ Apache Software License;; BSD License  │
+│ ✔          │ pyyaml                 │ MIT License                            │
+│ ✔          │ numpy                  │ BSD License                            │
+│ ✔          │ tomli                  │ MIT License                            │
+│ ✔          │ pyparsing              │ MIT License                            │
+└────────────┴────────────────────────┴────────────────────────────────────────┘
 
-                                list of packages
-┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Compatible ┃ Package           ┃ License(s)                                  ┃
-┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│ ✔          │ kiwisolver        │ BSD License                                 │
-│ ✔          │ pyparsing         │ MIT License                                 │
-│ ✔          │ cycler            │ BSD License                                 │
-│ ✔          │ matplotlib        │ Python Software Foundation License          │
-│ ✔          │ python-dateutil   │ Apache Software License;; BSD License       │
-│ ✔          │ tomli             │ MIT License                                 │
-│ ✔          │ setuptools-scm    │ MIT License                                 │
-│ ✔          │ six               │ MIT License                                 │
-│ ✔          │ typing-extensions │ Python Software Foundation License          │
-│ ✔          │ packaging         │ Apache Software License;; BSD License       │
-│ ✔          │ setuptools        │ MIT License                                 │
-│ ✔          │ contourpy         │ BSD License                                 │
-│ ✔          │ pillow            │ Historical Permission Notice and Disclaimer │
-│            │                   │ (HPND)                                      │
-│ ✔          │ numpy             │ BSD License                                 │
-│ ✔          │ fonttools         │ MIT License                                 │
-└────────────┴───────────────────┴─────────────────────────────────────────────┘
