@@ -1,12 +1,12 @@
+# -*- coding: utf-8 -*-
 from typing import Iterable, Protocol
 
 import numpy as np
 
 
 class ModelProto(Protocol):
-    """
+    """ """
 
-    """
     def __call__(self, input_array: Iterable[np.array]) -> float:
         ...
 

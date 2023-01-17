@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "parallel-text-aligner"
+version = "0.1.0"
+description = "Tools for aligning pairs of texts in different languages (or different translations in the same language)."
+authors = ["yelircaasi <isaac.r.riley@gmail.com>"]
+license = "GPLv3"
+readme = "README.md"
+packages = [{include = "parallel_text_aligner"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.5"
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.7"
+pre-commit = "^2.21"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

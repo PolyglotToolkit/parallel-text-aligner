@@ -1,16 +1,14 @@
+# -*- coding: utf-8 -*-
 
 
-class Trainer():
-    """
+class Trainer:
+    """ """
 
-    """
     ...
 
 
-class TrainerFactory():
-    """
-    
-    """
+class TrainerFactory:
+    """ """
 
     def __init__(self, config) -> None:
         ...

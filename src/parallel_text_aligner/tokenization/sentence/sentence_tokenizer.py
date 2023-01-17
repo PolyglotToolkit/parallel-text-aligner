@@ -1,10 +1,9 @@
+# -*- coding: utf-8 -*-
 from typing import Any
 
 
-class SentenceTokenizer():
-    """
-
-    """
+class SentenceTokenizer:
+    """ """
 
     def __init__(self) -> None:
         ...
@@ -13,10 +12,8 @@ class SentenceTokenizer():
         ...
 
 
-class SentenceTokenizerFactory():
-    """
-
-    """
+class SentenceTokenizerFactory:
+    """ """
 
     def __init__(self, config) -> None:
         ...
@@ -26,8 +23,6 @@ class SentenceTokenizerFactory():
 
 
 def get_sentence_tokenizer(config) -> SentenceTokenizer:
-    """
-
-    """
+    """ """
     factory = SentenceTokenizerFactory(config)
     return factory.get_sentence_tokenizer()

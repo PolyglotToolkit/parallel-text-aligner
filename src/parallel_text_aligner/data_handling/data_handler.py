@@ -1,29 +1,34 @@
+# -*- coding: utf-8 -*-
 from pathlib import Path
 
-from parallel_text_aligner.tokenization.word.word_tokenizer import get_word_tokenizer, WordTokenizer
-from parallel_text_aligner.tokenization.sentence.sentence_tokenizer import get_sentence_tokenizer, SentenceTokenizer
+from parallel_text_aligner.tokenization.sentence.sentence_tokenizer import (
+    SentenceTokenizer,
+    get_sentence_tokenizer,
+)
+from parallel_text_aligner.tokenization.word.word_tokenizer import (
+    WordTokenizer,
+    get_word_tokenizer,
+)
 
 
-class DataHandler():
-    """
+class DataHandler:
+    """ """
 
-    """
     def __init__(
         self,
         data_dir,
         sentence_tokenizer: SentenceTokenizer,
         word_tokenizer: WordTokenizer,
-        ) -> None:
+    ) -> None:
         ...
 
     def load() -> None:
         ...
 
 
-class DataHandlerFactory():
-    """
+class DataHandlerFactory:
+    """ """
 
-    """
     def __init__(self, config) -> None:
         ...
 
@@ -36,8 +41,6 @@ class DataHandlerFactory():
 
 
 def get_data_handler(config) -> DataHandler:
-    """
-
-    """
+    """ """
     factory = DataHandlerFactory(config)
     return factory.get_data_handler()

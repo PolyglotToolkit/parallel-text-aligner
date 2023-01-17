@@ -1,10 +1,9 @@
+# -*- coding: utf-8 -*-
 from typing import Any
 
 
-class WordTokenizer():
-    """
-
-    """
+class WordTokenizer:
+    """ """
 
     def __init__(self) -> None:
         ...
@@ -13,10 +12,8 @@ class WordTokenizer():
         ...
 
 
-class WordTokenizerFactory():
-    """
-
-    """
+class WordTokenizerFactory:
+    """ """
 
     def __init__(self, config) -> None:
         ...
@@ -26,8 +23,6 @@ class WordTokenizerFactory():
 
 
 def get_word_tokenizer(config) -> WordTokenizer:
-    """
-
-    """
+    """ """
     factory = WordTokenizerFactory(config)
     return factory.get_word_tokenizer()

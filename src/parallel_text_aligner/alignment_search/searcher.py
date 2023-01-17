@@ -1,23 +1,21 @@
+# -*- coding: utf-8 -*-
+from parallel_text_aligner import beam_search, noise
 from parallel_text_aligner.alignment_search import anchors
-from parallel_text_aligner import beam_search
-from parallel_text_aligner import noise
 
 
-class Searcher():
-    """
+class Searcher:
+    """ """
 
-    """
     def __init__(self) -> None:
         ...
 
 
-class SearcherFactory():
-    """
+class SearcherFactory:
+    """ """
 
-    """
     def __init__(self, config) -> None:
         ...
-    
+
     def get_searcher(self) -> Searcher:
         return Searcher()
 
