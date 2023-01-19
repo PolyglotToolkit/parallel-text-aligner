@@ -1,0 +1,282 @@
+- der:
+  - die
+  - das
+  - dem
+  - den
+- und:
+  - null
+- bin:
+  - null
+- ist:
+  - null
+- sein: # conjugations excluding bin (am) and ist (is)
+  - sind
+  - seid
+- in:
+  - null
+- ein:
+  - eine
+  - einer
+  - eines
+  - einen
+  - einem
+- zu:
+  - null
+- haben:
+  - habe
+  - hab
+  - hast
+  - hat
+  - haben
+  - habt
+- ich:
+  - null
+- werden:
+  - null
+- sie:
+  - null
+- von:
+  - null
+- nicht:
+  - null
+- mit:
+  - null
+- es:
+  - null
+- sich:
+  - null
+- auch:
+  - null
+- auf:
+  - null
+- für:
+  - null
+- an:
+  - null
+- er:
+  - null
+- so:
+  - null
+- dass:
+  - null
+- können:
+  - null
+- dies:
+  - diese
+  - dieser
+  - diesem
+  - diesen
+  - dieses
+- als:
+  - null
+- ihr:
+  - null
+- ja:
+  - null
+- wie:
+  - null
+- bei:
+  - null
+- oder:
+  - null
+- wir:
+  - null
+- aber:
+  - null
+- dann:
+  - null
+- man:
+  - null
+- da:
+  - null
+- noch:
+  - null
+- nach:
+  - null
+- was:
+  - null
+- also:
+  - null
+- aus:
+  - null
+- all:
+  - null
+- wenn:
+  - null
+- nur:
+  - null
+- müssen:
+  - muss
+  - musst
+  - müsst
+- sagen:
+  - sage
+  - sagst
+  - sagen
+  - sagt
+- um:
+  - null
+- über:
+  - null
+- machen:
+  - mache
+  - machst
+  - macht
+  - machen
+  - machte
+  - machtest
+- kein:
+  - keine
+  - keiner
+  - keinen
+  - keinem
+  - keines
+- Jahr:
+  - Jahre
+  - null
+- du:
+  - null
+- mein:
+  - null
+- schon:
+  - null
+- vor:
+  - null
+- durch:
+  - null
+- geben:
+  - null
+- mehr:
+  - null
+- andere:
+  - anderer:
+  - anderes:
+  - anderen:
+  - anderem:
+  - null
+- viel:
+  - null
+- kommen:
+  - null
+- jetzt:
+  - null
+- sollen:
+  - null
+- mir:
+  - null
+- wollen:
+  - null
+- ganz:
+  - null
+- mich:
+  - null
+- immer:
+  - null
+- gehen:
+  - gehe
+  - gehst
+  - geht
+  - gehen
+  - ging
+  - gingst
+  - gegangen
+- sehr:
+  - null
+- hier:
+  - null
+- doch:
+  - null
+- bis:
+  - null
+- groß:
+  - große
+  - großer
+  - großem
+  - großen
+  - großes
+- wieder:
+  - null
+- Mal:
+  - Mals
+- zwei:
+  - zweier
+  - zweien
+- gut:
+  - gute
+  - guter
+  - gutem
+  - guten
+  - gutes
+- wissen:
+  - weiß
+  - weißt
+  - wisst
+- neu:
+  - neue
+  - neuer
+  - neuen
+  - neuem
+- sehen:
+  - sehe
+  - siehst
+  - seht
+- lassen:
+  - lass
+  - lasse
+  - lasst
+  - ließ
+  - ließt
+  - ließen
+  - ließe
+- uns:
+  - null
+- weil:
+  - null
+- unter:
+  - null
+- denn:
+  - null
+- stehen:
+  - stehe
+  - stehst
+  - steht
+  - stand
+  - standest
+  - standen
+- jede:
+  - jeder
+  - jedes
+  - jedem
+  - jeden
+- Beispiel:
+  - Beispiels
+- Zeit:
+  - Zeiten
+- erste:
+  - erster
+  - erstes
+  - erstem
+  - ersten
+- ihm:
+  - ihn:
+- wo:
+  - null
+- lang:
+  - lange
+  - langer
+  - langem
+  - langen
+  - langes
+- eigentlich:
+  - null
+- damit:
+  - null
+- selbst:
+  - selber:
+  - null
+- unser:
+  - unsere
+  - unserem
+  - unserer
+- oben:
+  - null
