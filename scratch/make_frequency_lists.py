@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import yaml
 
 enfunc = "/home/isaac/Learning/parallel-text-aligner/resources/word_lists/function_words/EN_unsorted.yaml"

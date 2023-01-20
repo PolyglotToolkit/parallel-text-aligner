@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
 import hydra
 
 from parallel_text_aligner.alignment_search.searcher import get_searcher
-from parallel_text_aligner.common.config import CONFIG
+
+# TODO: update to hydra: from parallel_text_aligner.common.config import CONFIG
 from parallel_text_aligner.common.locations import Locations
-from parallel_text_aligner.data_handling.data_handler import get_data_handler
+from parallel_text_aligner.data.handling import get_data_handler
 
 
 class Aligner:

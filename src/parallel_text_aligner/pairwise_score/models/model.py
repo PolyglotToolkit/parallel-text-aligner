@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from parallel_text_aligner.common.config import CONFIG
 from parallel_text_aligner.pairwise_score.models import basic, neural_nonseq, neural_seq
 from parallel_text_aligner.pairwise_score.training.trainer import get_trainer

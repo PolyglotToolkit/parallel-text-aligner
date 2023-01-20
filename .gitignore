@@ -130,3 +130,4 @@ dmypy.json
 
 # Data folder
 data/
+!src/parallel_text_aligner/data/

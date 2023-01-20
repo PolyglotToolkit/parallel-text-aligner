@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from typing import Any
 
 from parallel_text_aligner.pairwise_score import models, tokenizers

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from pathlib import Path
 
 from parallel_text_aligner.tokenization.sentence.sentence_tokenizer import (

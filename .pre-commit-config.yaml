@@ -28,7 +28,6 @@ repos:
     - id: detect-private-key
     - id: end-of-file-fixer
     - id: fix-byte-order-marker
-    - id: fix-encoding-pragma
     - id: mixed-line-ending
     - id: name-tests-test
     - id: sort-simple-yaml
@@ -42,10 +41,10 @@ repos:
     rev: '22.12.0'
     hooks:
     - id: black
-  - repo: https://github.com/FHPythonUtils/LicenseCheck
-    rev: '2023'
-    hooks:
-    - id: licensecheck
-      args: ["--file", "/tmp/license-check.txt",
-             "--ignore-licenses", "apache",
-             "&&", "git", "diff", "/tmp/license-check.txt", "license-check.txt"]
+  # - repo: https://github.com/FHPythonUtils/LicenseCheck
+  #   rev: '2023'
+  #   hooks:
+  #   - id: licensecheck
+  #     args: ["--file", "/tmp/license-check.txt",
+  #            "--ignore-licenses", "apache",
+  #            "&&", "git", "diff", "/tmp/license-check.txt", "license-check.txt"]

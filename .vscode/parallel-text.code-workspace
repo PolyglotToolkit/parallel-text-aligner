@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../parallel-text-finisher"
+		}
+	],
+	"settings": {
+		"python.formatting.provider": "black",
+		"python.terminal.activateEnvironment": false,
+		"terminal.integrated.env.linux": {
+			"ZSH_INIT_COMMAND": "poetry shell"
+		},
+	}
+}
