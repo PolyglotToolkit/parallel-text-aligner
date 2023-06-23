@@ -1,0 +1,2 @@
+frequent-word-based alignment: use only k most frequent tokens + punctuation, with and <UNKNOWN> token for all other words
+enhancement: j separate unknown classes for frequency (quantized, i.e. 20% most frequent, 20% most common (not counting k most vocab words, hapax legomena), capitalization (?), length (?)
