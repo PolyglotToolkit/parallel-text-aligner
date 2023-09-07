@@ -13,3 +13,88 @@ https://www.jw.org/en/bible-teachings/history/
 https://www.jw.org/en/bible-teachings/bible-study-tools/
 https://www.jw.org/en/library/magazines/
 https://www.jw.org/en/library/bible/nwt/books/
+
+
+The Little Prince
+Bible
+Qur'an
+UN
+
+Freud
+Dostoevsky
+Gogol
+Jack London
+Pinocchio
+Grimm
+Dan Brown
+John Grisham
+James Patterson
+
+Andersen's Fairy Tales
+Harry Potter
+
+TED Talks subs
+Movie Subtitles
+Tatoeba
+
+Popular YouTube Channels
+- VSauce
+- 3b1b
+- Smarter Every Day
+- School of Life
+-
+
+Documentation:
+- Ubuntu
+- Python
+- Scala
+- PHP
+- Mozilla
+- Lua books
+- cppreference
+- patterns/refactoring site
+- git docs
+https://learn.microsoft.com/
+https://developers.google.com/?hl=de
+
+===================================
+go to "Search & download resources:" and click on the link under alg
+===================================
+
+https://conferences.unite.un.org/uncorpus
+
+https://opus.nlpl.eu/Tatoeba.php
+https://opus.nlpl.eu/OpenSubtitles.php
+
+https://opus.nlpl.eu/Books.php
+https://opus.nlpl.eu/CCAligned.php
+https://opus.nlpl.eu/CCMatrix.php
+https://opus.nlpl.eu/bible-uedin.php
+https://opus.nlpl.eu/DGT.php
+https://opus.nlpl.eu/ECB.php
+https://opus.nlpl.eu/EUbookshop.php
+https://opus.nlpl.eu/EUconst.php
+https://opus.nlpl.eu/EMEA.php
+https://opus.nlpl.eu/Europarl.php
+https://opus.nlpl.eu/GlobalVoices.php
+https://opus.nlpl.eu/KDEdoc.php
+https://opus.nlpl.eu/News-Commentary.php
+https://opus.nlpl.eu/SciELO.php
+https://opus.nlpl.eu/Tanzil.php
+https://opus.nlpl.eu/MT560.php
+https://opus.nlpl.eu/UN.php
+https://opus.nlpl.eu/Wikipedia.php
+https://opus.nlpl.eu/WMT-News.php
+https://opus.nlpl.eu/WikiMatrix.php
+https://opus.nlpl.eu/OpenOffice.php
+https://opus.nlpl.eu/MultiParaCrawl.php
+https://opus.nlpl.eu/SPC.php
+https://opus.nlpl.eu/ELITR-ECA.php
+https://opus.nlpl.eu/ada83/v1/en-ru_sample.html
+https://opus.nlpl.eu/ParCor/
+
+https://opus.nlpl.eu/UNPC.php
+http://nlp2ct.cis.umac.mo/um-corpus/
+
+http://www.perseus.tufts.edu/hopper/collections'
+https://opus.nlpl.eu/Ubuntu.php

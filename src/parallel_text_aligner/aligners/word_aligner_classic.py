@@ -1,5 +1,3 @@
-import hydra
-
 from parallel_text_aligner.alignment_search.searcher import get_searcher
 
 # TODO: update to hydra: from parallel_text_aligner.common.config import CONFIG
@@ -7,7 +5,7 @@ from parallel_text_aligner.common.locations import Locations
 from parallel_text_aligner.data.handling import get_data_handler
 
 
-class Aligner:
+class WordAlignerClassic:
     """ """
 
     def __init__(self, cfg) -> None:
@@ -26,11 +24,6 @@ class Aligner:
 
 
 class AlignerFactory:
-    ...
-
-
-@hydra.main(version_base=None, config_path=Locations.DIR_CONFIG, config_name="default")
-def get_aligner():
     ...
 
 

@@ -1,1 +1,1 @@
-from parallel_text_aligner.aligner import get_aligner
+from parallel_text_aligner.aligners.sentence_aligner_classic import get_aligner
