@@ -1,4 +1,4 @@
-import hydra
+# import hydra
 
 from parallel_text_aligner.alignment_search.searcher import get_searcher
 
